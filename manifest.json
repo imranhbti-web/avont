@@ -1,0 +1,16 @@
+{
+  "name": "Avon Traders",
+  "short_name": "Avon Traders",
+  "description": "Billing, rate list, stock and khata for Avon Traders, Balaganj, Lucknow.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C2028",
+  "theme_color": "#1C2028",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
